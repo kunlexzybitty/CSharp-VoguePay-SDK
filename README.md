@@ -71,7 +71,7 @@ Sample Responses
 {"status": "ERROR","message": "Unable to process command"}
 
   
-  {"status": "OK","message": "Payment link generated","url": "https://timcloud.win/pay/bnlink/1560713945-x0"}
+  {"status": "OK","message": "Payment link generated","url": "https://voguepay.com/pay/bnlink/1560713945-x0"}
 </pre>
 
 
