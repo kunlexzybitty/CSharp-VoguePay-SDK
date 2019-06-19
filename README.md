@@ -56,9 +56,9 @@ Using the Csharp Library
     hostedPayment.Memo = "Sample payment";
     hostedPayment.Currency = "NGN";
     hostedPayment.StoreID = "293330002";  //optional
-    hostedPayment.SuccessURL = "https://google.com/success";
-    hostedPayment.FailureURL = "https://google.com/fail";
-    hostedPayment.NotificationURL = "https://google.com/notify";
+    hostedPayment.SuccessURL = "https://sample.com/success";
+    hostedPayment.FailureURL = "https://sample.com/fail";
+    hostedPayment.NotificationURL = "https://sample.com/notify";
 
     string jsonResult = voguepay.Pay(hostedPayment, customer);
     
